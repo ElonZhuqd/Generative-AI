@@ -1,6 +1,8 @@
 # Generative-AI
 Gen AI end to end project
 
+dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 # Generative AI Introduction
 ## 1.What is Generative AI?
 ##### Generative AI generates new data based on training sample.     
