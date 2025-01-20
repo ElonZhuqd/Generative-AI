@@ -26,3 +26,38 @@
 ##### Large Language Models are foundational machine learning models that use deep learning algorithms to process and understand natural language. These models are trained on massive amounts of text data to learn patterns and entity relationships in the language.
 ##### It is a language model which is responsible for performing tasks such as text to text generation, text to image generation and image to text generations.
 ##### LLM is our generative model.So, LLM is subset of deep learning. 
+
+# Generative AI End to End pipeline
+## 1.End to end Generative AI pipeline
+##### Generative AI pipeline is a set of steps followed to build an end to end GenAI software.
+
+## 2.Generative AI pipeline
+##### Data acquisition - Data Processing - Feature engineering - Modeling - Evaluation - Deployment - Monitoring and model updating
+
+###### Step1. Data acquisition
+###### check available data (csv, txt, pdf, docs,xlsx)
+###### other data (DB, Internet, API)
+###### no data, then creating your own data: LLM, if you have less data, then you can perform Data Augmentation: replace with synonyms, biagram flip, back translation, add additional noise
+
+##### Step2: Data Processing
+###### cleanup: html tags, emoji, spelling correction,etc 
+###### basic preprocessing: tokenization (word level and sentence level)
+###### optional preprocessing: stop word removal; streaming; lemmatization; punctuation removal; lower case; language detection
+###### advance preprocessing: parts of speech tagging; parsing; coreference resolution
+
+##### Step3: Feature Engineering
+###### text vectorization
+
+##### Step4: Modeling
+###### paid model and open source model
+
+##### Step5: Evaluation
+###### Intrinsic and Extrinsic evaluation
+
+##### Step6: Deployment & Monitoring  & Re-training the model
+
+## Common Term
+##### conpus: entire text
+##### vocabulary: unique word
+##### documents: one line
+##### word: single word
