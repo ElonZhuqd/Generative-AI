@@ -70,4 +70,7 @@ dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-mov
 ##### Inside Gen AI, we will be working with textual data, image kinds of data. These are actually raw files unstructured data. I can't directly pass this textual/image data to my model. Model is nothing but at the end it's a mathematical equation only. And mathematical equation can only support numerical data. So we have to convert them to numerical representation. This is what we called as data representation or data vectorization.
 
 ##### Feature Extraction from text/image
+
+##### Bag Of Word (BOW)
+##### TFIDF
       
